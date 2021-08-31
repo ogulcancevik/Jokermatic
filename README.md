@@ -1,7 +1,7 @@
 # Jokermatic
 
 Jokermatic is a random joke app.\
-If u want to see this app u can visit https://super-search-ten.vercel.app/
+If u want to see this app u can visit https://jokermatic.vercel.app/
 
 ## Tech Used
 
